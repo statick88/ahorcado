@@ -1,0 +1,33 @@
+# Ignorar el entorno virtual
+venv/
+*.egg-info/
+__pycache__/
+*.pyc
+
+# Ignorar archivos de configuración de IDEs
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignorar archivos de caché de Python
+*.pyo
+*.pyd
+.Python
+
+# Ignorar archivos de configuración de Jupyter
+.ipynb_checkpoints
+
+# Ignorar archivos de distribución
+build/
+dist/
+*.egg
+
+# Archivos de logs
+*.log
+
+# Archivos de configuración de pytest
+.cache/
+
+# backup
+
+*.backup
